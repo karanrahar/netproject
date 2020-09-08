@@ -6,7 +6,7 @@ pipeline {
        
          stage('Run') {
             steps {
-                bat "FirstcoreProject.exe"
+                bat "FirstcoreProject/FirstcoreProject.exe"
             }
         }
         
