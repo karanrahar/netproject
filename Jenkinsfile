@@ -6,9 +6,10 @@ pipeline {
        
          stage('Run') {
             steps {
-                bat "dir",
-                bat "cd FirstcoreProject",
-                bat "dotnet run"
+                bat """
+                    cd FirstcoreProject
+                    dotnet run
+                """
             }
         }
         
