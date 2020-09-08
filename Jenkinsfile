@@ -6,7 +6,9 @@ pipeline {
        
          stage('Run') {
             steps {
-                bat "FirstcoreProject\FirstcoreProject.exe"
+                bat "dir",
+                bat "cd FirstcoreProject",
+                bat "dotnet run"
             }
         }
         
