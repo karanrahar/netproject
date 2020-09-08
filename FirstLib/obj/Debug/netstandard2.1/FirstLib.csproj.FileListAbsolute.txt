@@ -1,0 +1,4 @@
+C:\Users\karrahar\Documents\netproject\FirstLib\obj\Debug\netstandard2.1\FirstLib.csprojAssemblyReference.cache
+C:\Users\karrahar\Documents\netproject\FirstLib\obj\Debug\netstandard2.1\FirstLib.AssemblyInfoInputs.cache
+C:\Users\karrahar\Documents\netproject\FirstLib\obj\Debug\netstandard2.1\FirstLib.AssemblyInfo.cs
+C:\Users\karrahar\Documents\netproject\FirstLib\obj\Debug\netstandard2.1\FirstLib.csproj.CoreCompileInputs.cache
