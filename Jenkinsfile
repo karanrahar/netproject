@@ -25,7 +25,7 @@ pipeline {
         }
          stage('Run') {
             steps {
-                bat "dotnet run"
+                bat "cd FirstcoreProj; dotnet run"
             }
         }
          stage('Publish') {
